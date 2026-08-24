@@ -1,15 +1,16 @@
 {
-  "channel": "stable",
-  "policy": "recommended",
-  "product": "overfile",
-  "published_at": "2026-08-24T00:00:00Z",
-  "release_notes": [
-    "Primo aggiornamento in-place verificato per OverFile.",
-    "Installazione per-user e dati professionali mantenuti separati."
-  ],
-  "schema_version": 1,
-  "setup_url": "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.1/OverFile-Setup-0.1.1.exe",
-  "sha256": "abfbd4af506382cade514755dc6f3be3455bf757ec5bb0275d41b33f5d68ad0f",
-  "size": 32915326,
-  "version": "0.1.1"
+    "channel":  "stable",
+    "policy":  "recommended",
+    "product":  "overfile",
+    "published_at":  "2026-08-24T23:05:00Z",
+    "release_notes":  [
+                          "Correzione apertura workspace dopo aggiornamento.",
+                          "Maggiore affidabilità TLS dell\u0027updater.",
+                          "Diagnostica dell\u0027accesso centrale migliorata."
+                      ],
+    "schema_version":  1,
+    "setup_url":  "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.2/OverFile-Setup-0.1.2.exe",
+    "sha256":  "5816d4b6799efaef126525f43f1ed52a5355d5577f3f5e62542f579b1b50ef91",
+    "size":  32915595,
+    "version":  "0.1.2"
 }
