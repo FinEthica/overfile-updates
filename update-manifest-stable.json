@@ -2,16 +2,15 @@
     "channel":  "stable",
     "policy":  "recommended",
     "product":  "overfile",
-    "published_at":  "2026-08-25T07:48:10Z",
+    "published_at":  "2026-08-25T11:51:39Z",
     "release_notes":  [
-                          "Aggiornamenti disponibili anche in modalità recovery.",
-                          "Corretto il caricamento degli asset frontend dopo aggiornamento.",
-                          "Release notes post-update sincronizzate con la versione installata.",
-                          "Aggiunta la sezione Informazioni su OverFile nelle Impostazioni."
+                          "Il tema grafico viene mantenuto tra browser diversi sullo stesso PC.",
+                          "Ogni Organization può avere il proprio tema locale.",
+                          "Uniformata la grafica di popup, caricamenti e schermate intermedie."
                       ],
     "schema_version":  1,
-    "setup_url":  "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.3/OverFile-Setup-0.1.3.exe",
-    "sha256":  "c63a1253e11a5d32116f94e560f50a35e62ac7717b22e8b351e7d1a0276171f1",
-    "size":  32919174,
-    "version":  "0.1.3"
+    "setup_url":  "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.4/OverFile-Setup-0.1.4.exe",
+    "sha256":  "00ec9594d6bdc401491a47946548194c910815600ed018e5709ffb19ed7d761f",
+    "size":  32924001,
+    "version":  "0.1.4"
 }
