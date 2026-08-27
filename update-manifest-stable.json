@@ -4,14 +4,11 @@
   "product": "overfile",
   "published_at": "2026-08-27T00:00:00Z",
   "release_notes": [
-    "Migliorata la navigazione dei PDF con miniature, modalità pagina singola e documento intero.",
-    "Migliorata la rilevazione dei dati nei PDF compilati, inclusi campi AcroForm, Partita IVA, PEC e indirizzi.",
-    "Rafforzato il riconoscimento e il riferimento dei dati tra Professionista e soggetti presenti nelle Anagrafiche.",
-    "Aggiunta la Partita IVA al Profilo Professionista e rifinita l'interfaccia della Review."
+    "Corretto il processo di aggiornamento automatico in-place di OverFile."
   ],
   "schema_version": 1,
-  "setup_url": "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.5/OverFile-Setup-0.1.5.exe",
-  "sha256": "a6d567f1c3386e8c19f990fc54928a0b34b8ac6f4d16ada66c0c1fc8ae145046",
-  "size": 32983112,
-  "version": "0.1.5"
+  "setup_url": "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.6/OverFile-Setup-0.1.6.exe",
+  "sha256": "936a8262fe019319a06bbc4bff862e1a73a67485e371d9e716a9069a63add9d6",
+  "size": 32984968,
+  "version": "0.1.6"
 }
