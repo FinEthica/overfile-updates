@@ -10,7 +10,7 @@
     "Aggiunta la Partita IVA al Profilo Professionista e rifinita l'interfaccia della Review."
   ],
   "schema_version": 1,
-  "setup_url": "https://github.com/FinEthica/finethica-document-redactor/releases/download/v0.1.5/OverFile-Setup-0.1.5.exe",
+  "setup_url": "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.5/OverFile-Setup-0.1.5.exe",
   "sha256": "a6d567f1c3386e8c19f990fc54928a0b34b8ac6f4d16ada66c0c1fc8ae145046",
   "size": 32983112,
   "version": "0.1.5"
