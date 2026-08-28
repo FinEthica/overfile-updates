@@ -2,13 +2,13 @@
   "channel": "stable",
   "policy": "recommended",
   "product": "overfile",
-  "published_at": "2026-08-27T00:00:00Z",
+  "published_at": "2026-08-28T00:00:00Z",
   "release_notes": [
-    "Corretto il processo di aggiornamento automatico in-place di OverFile."
+    "Mantenuta l’Organization attiva dopo riavvii e aggiornamenti, senza modificare i dati locali."
   ],
   "schema_version": 1,
-  "setup_url": "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.6/OverFile-Setup-0.1.6.exe",
-  "sha256": "936a8262fe019319a06bbc4bff862e1a73a67485e371d9e716a9069a63add9d6",
-  "size": 32984968,
-  "version": "0.1.6"
+  "setup_url": "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.7/OverFile-Setup-0.1.7.exe",
+  "sha256": "56cb2dc06b79aa359b636e96fc6b197423d786eb6529c89756aaf20c2fe46ca0",
+  "size": 32991574,
+  "version": "0.1.7"
 }
