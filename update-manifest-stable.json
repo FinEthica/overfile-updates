@@ -2,13 +2,15 @@
   "channel": "stable",
   "policy": "recommended",
   "product": "overfile",
-  "published_at": "2026-08-28T00:00:00Z",
+  "published_at": "2026-09-17T00:00:00Z",
   "release_notes": [
-    "Mantenuta l’Organization attiva dopo riavvii e aggiornamenti, senza modificare i dati locali."
+    "Ampliata la gestione dei PDF con anonimizzazione, ricostruzione e finalizzazione dei documenti.",
+    "Evoluta la Review con gestione piu completa di soggetti, persone correlate e asset grafici.",
+    "Migliorata la robustezza degli output e dei flussi documentali."
   ],
   "schema_version": 1,
-  "setup_url": "https://github.com/FinEthica/overfile-updates/releases/download/v0.1.7/OverFile-Setup-0.1.7.exe",
-  "sha256": "56cb2dc06b79aa359b636e96fc6b197423d786eb6529c89756aaf20c2fe46ca0",
-  "size": 32991574,
-  "version": "0.1.7"
+  "setup_url": "https://github.com/FinEthica/overfile-updates/releases/download/v0.2.0/OverFile-Setup-0.2.0.exe",
+  "sha256": "55ec4a439bacb473d1c231eecc102a5517aac7ab4c8a325dc8b23f16bca50270",
+  "size": 37060287,
+  "version": "0.2.0"
 }
